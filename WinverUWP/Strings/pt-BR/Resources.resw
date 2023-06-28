@@ -154,7 +154,7 @@
     <value>O sistema operacional Windows e sua interface de usuário são protegidos por marca registrada e outros direito de propriedade intelectual existentes ou pendentes nos Estados Unidos e em outros países/regiões.</value>
   </data>
   <data name="Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>~Versão</value>
   </data>
   <data name="WindowsSpecifications.Text" xml:space="preserve">
     <value>Especificações do Windows</value>
